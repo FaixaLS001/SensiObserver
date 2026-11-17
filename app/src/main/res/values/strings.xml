@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Observador de Sensi</string>
+    <string name="accessibility_desc">Opcional. Só serve para a calibração de resposta: faz alguns arrastos de teste de tamanho conhecido para medir quanto a câmera do jogo gira por pixel de dedo. O app não lê o que você toca.</string>
+</resources>
